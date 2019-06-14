@@ -1,9 +1,3 @@
-# Change Log
+# 更新日志
 
-All notable changes to the "markdown-extension-pack" extension pack will be documented in this file.
-
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
-## [Unreleased]
-
-- Initial release
+- v1.0.0：集成了 4 个插件，并发布初始版本

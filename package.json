@@ -8,6 +8,10 @@
     "email": "rxliuli@gmail.com",
     "url": "https://github.com/rxliuli"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rxliuli/markdown-extension-pack"
+  },
   "publisher": "rxliuli",
   "engines": {
     "vscode": "^1.35.0"
