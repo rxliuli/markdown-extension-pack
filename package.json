@@ -1,0 +1,24 @@
+{
+  "name": "markdown-extension-pack",
+  "displayName": "Markdown Extension Pack",
+  "description": "Add an out-of-the-box Markdown environment for VSCode",
+  "version": "0.0.1",
+  "author": {
+    "name": "rxliuli",
+    "email": "rxliuli@gmail.com",
+    "url": "https://github.com/rxliuli"
+  },
+  "publisher": "rxliuli",
+  "engines": {
+    "vscode": "^1.35.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "yzhang.markdown-all-in-one",
+    "xyz.local-history",
+    "yzane.markdown-pdf",
+    "DavidAnson.vscode-markdownlint"
+  ]
+}
