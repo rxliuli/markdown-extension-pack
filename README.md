@@ -2,6 +2,8 @@
 
 ## 简介
 
+[![VSCode Plugin](https://vsmarketplacebadge.apphb.com/version-short/rxliuli.markdown-extension-pack.svg)](https://marketplace.visualstudio.com/items?itemName=rxliuli.markdown-extension-pack) [![GitHub ISSUES](https://img.shields.io/github/issues/rxliuli/markdown-extension-pack.svg)](https://github.com/rxliuli/markdown-extension-pack/issues)
+
 这是一个 Markdown 扩展的扩展包，致力于为 VSCode 提供开箱即用的 Markdown 编辑环境。
 
 ## 插件列表
