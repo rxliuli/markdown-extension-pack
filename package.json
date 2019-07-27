@@ -23,6 +23,7 @@
     "yzhang.markdown-all-in-one",
     "xyz.local-history",
     "yzane.markdown-pdf",
-    "DavidAnson.vscode-markdownlint"
+    "DavidAnson.vscode-markdownlint",
+    "streetsidesoftware.code-spell-checker"
   ]
 }
