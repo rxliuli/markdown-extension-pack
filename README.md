@@ -10,8 +10,9 @@
 
 - [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one): Markdown 编辑增强
 - [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf): Markdown PDF 导出
-- [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint): Markdown Linter
+- [markdown-lint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint): Markdown Linter
 - [Local History](https://marketplace.visualstudio.com/items?itemName=xyz.local-history): 本地历史记录
+- [markdown-mermaid](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-mermaid): markdown 流程图支持
 
 ## 功能
 
@@ -44,3 +45,17 @@
 ### Local History
 
 这不是一个 Markdown 扩展，但对于写作却有着非同寻常的意义 -- 能够记录自己的写作历史，避免因为突发意外而丢失写作内容（来自吾辈所遇到的血淋淋的教训。。。）。它会在项目目录下生成一个 `.history` 文件夹，里面存放着所有使用 Markdown 编辑过的文件的历史记录，你可以将文件内容与历史记录对比并回退到任意记录。
+
+### markdown-mermaid
+
+在 markdown 中支持流程图，而且能够让导出的 pdf 中包含该配置。
+
+一个简单的流程图
+
+```mermaid
+graph LR;
+A --> B
+A --> C
+A --> D
+D --> E --> F
+```
